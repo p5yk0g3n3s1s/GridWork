@@ -1,2 +1,2 @@
 # GridWork
- [Godot A framework for creating grid structures
+ [Godot Plugin] A framework for creating grid structures
